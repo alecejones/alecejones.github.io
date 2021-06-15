@@ -1,0 +1,33 @@
+body, .side-bar {
+  background-color: #303030;
+}
+
+.site-title {
+  padding: 0;
+}
+
+.site-logo {
+  background-size: cover;
+}
+
+.search, .search-input {
+  color: '#ffffff';
+  background-color: #303030;
+}
+
+.nav-list, 
+.nav-list-item,
+.nav-list-link:hover, 
+.nav-list,
+.nav-list-item,
+.nav-list-link.active {
+  background-image: none !important;
+}
+
+.nav-list-link.active {
+  border: 1.5px solid #2c84fa;
+}
+
+.aux-nav {
+  padding-right: 0 !important;
+}
