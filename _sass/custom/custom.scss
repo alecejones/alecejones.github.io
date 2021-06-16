@@ -17,11 +17,11 @@ body, .side-bar {
 
 .nav-list, 
 .nav-list-item,
-.nav-list-link:hover, 
 .nav-list,
-.nav-list-item,
-.nav-list-link.active {
+.nav-list-item {
   background-image: none !important;
+  border: 1.5px solid transparent;
+  background-color: 'transparent';
 }
 
 .nav-list-link.active {
