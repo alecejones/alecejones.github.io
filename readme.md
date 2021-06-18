@@ -17,7 +17,7 @@ Swords & Ravens has its own channels that you can submit questions to.
 
 *What if I'd like to submit a bug or code change?*
 
-The codebase for S&R is public and pull requests are welcome. The client application is written with React and the server with Django.
+The codebase for S&R is public and pull requests are welcome. The game server is written in Typescript with React, mobx and bootstrap.
 
 [Github Repository](https://github.com/Longwelwind/swords-and-ravens)
 
