@@ -39,6 +39,12 @@ In times where everyone is very low on tokens (such as when you have two consecu
 
 So don't underestimate the power of resolving ties in determining the game outcome.
 
+- **How to shift a house from bottom to top on Swords and Raven**
+
+![ResolvingTies1](/assets/img/resolving-ties-1.png)  
+![ResolvingTies2](/assets/img/resolving-ties-2.png)  
+![ResolvingTies3](/assets/img/resolving-ties-3.png)
+
 - **Choosing bidding order during Wildling phase**
 
 If the players collectively lose the Wildling phase, the iron throne holder will choose among the lowest bidders to receive the worst penalty.
