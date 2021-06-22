@@ -16,6 +16,17 @@ You can hover over the Westeros Phase with your mouse to see the remaining Weste
 
 ![Map](/assets/img/westeros_tooltips.png)
 
+## Round tooltips
+
+Hover over the hourglass to see the number of rounds remaining in the game.
+
+Keep in mind:
+
+Normal game: 10 rounds
+
+Dance with Dragons variant: 6 rounds only!
+
+![Map](/assets/img/hourglass.png)
 
 ## Gifting Power Tokens
 
