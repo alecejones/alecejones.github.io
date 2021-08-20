@@ -20,15 +20,15 @@ The last player on the Iron Throne track cannot pass and has to command all rema
 ## Additional vassal rules
 
 * Vassals cannot win the game.
-* Vassals can never hold a dominance token.
+* Vassals can never hold a dominance token (if they are on top of a track, the next player house on that track receives the dominance token).
 * Vassals don't have Power tokens, however they automatically leave a Power token behind when they vacate from an area.
-* Vassals therefore always bid 0 tokens during Clash of Kings.
-* Vassals do not participate in Wildling attacks and therefore they are immune to its effects.
+* Vassals participate in Clash of Kings but always automatically bid 0 tokens when bidding for the tracks.
+* Vassals do not participate in Wildling attacks and therefore they are immune to the effects.
 * Vassal orders are placed after player orders. Vassals can just place 2 orders.
 * You cannot attack nor raid your own vassal. You even cannot enter areas of your vassal with just a Power token in it.
 * Your vassal cannot attack nor raid you or any other vassal you control.
 * Your vassal cannot support your enemy in battle.
-* All vassals share one vassal house card deck. When it comes to battle, the commander randomly picks 3 cards from the sahred vassal deck to form a hand for this battle. Then they  choose one of this 3 cards as the chosen house card. After battle all vassal house cards go back to the shared vassal deck, meaning there is no vassal house card discard pile.
+* All vassals share one vassal house card deck. When it comes to battle, the commander randomly draws 3 cards from the shared vassal deck to create a hand for the battle. Then they pick one of this 3 cards as the chosen house card. After battle all vassal house cards go back to the shared vassal deck, meaning there is no vassal house card discard pile.
 * The commander earns one Power token when one of their vassals win a battle.
 * When the Westeros card "Mustering" is resolved, vassals only can muster in their capital. (They can place their special muster order everywhere of course.)
 * A commander can use the Valyrian Steel Blade for their vassal.
