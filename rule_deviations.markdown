@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Deviations from the official rules
+title: Deviations from the Official Rules
 permalink: /rule-deviations
 nav_order: 10
 ---
 
-## Deviations from the official rules
+## Deviations from the Official Rules
 
 Swords and Ravens of course tries to follow the official rules of the game as closely as possible.
 However, we have decided to make exceptions in a few cases where we deliberately deviate from the official rules.
