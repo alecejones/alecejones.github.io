@@ -2,7 +2,7 @@
 layout: home
 title: Replacing a Player Who Drops
 permalink: /replacement
-nav_order: 6
+nav_order: 5
 ---
 
 ## Replacing a Player Who Drops The Game
