@@ -2,7 +2,7 @@
 layout: home
 title: Game Map Settings
 permalink: /map
-nav_order: 8
+nav_order: 9
 ---
 
 ## Game Map
