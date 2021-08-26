@@ -2,7 +2,7 @@
 layout: home
 title: Vassal Settings
 permalink: /vassals
-nav_order: 6
+nav_order: 7
 ---
 
 ## Vassal Setup (Player-controlled neutral houses)
