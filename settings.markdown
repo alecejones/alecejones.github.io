@@ -2,7 +2,7 @@
 layout: home
 title: In-Game Settings
 permalink: /settings
-nav_order: 3
+nav_order: 4
 ---
 
 ## In-Game Settings
