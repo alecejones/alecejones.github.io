@@ -2,7 +2,7 @@
 layout: home
 title: Live vs. PBEM
 permalink: /live-pbem
-nav_order: 2
+nav_order: 3
 ---
 
 ## Live vs. Play By Email (PBEM)
