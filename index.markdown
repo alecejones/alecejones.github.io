@@ -2,7 +2,7 @@
 layout: home
 title: Home
 permalink: /
-nav_order: 1
+nav_order: 0
 ---
 
 # Swords & Ravens - FAQ
