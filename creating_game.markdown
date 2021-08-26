@@ -2,7 +2,7 @@
 layout: home
 title: Creating a Game
 permalink: /creating-game
-nav_order: 6
+nav_order: 1
 ---
 
 ## Creating a Game
