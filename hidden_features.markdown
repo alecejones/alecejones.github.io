@@ -2,7 +2,7 @@
 layout: home
 title: Hidden Platform Features
 permalink: /hidden-features
-nav_order: 2
+nav_order: 4
 ---
 
 ## Hidden Features
