@@ -51,11 +51,19 @@ Sea order tokens were added in the Mother of Dragons expansion and do not requir
 
 ## Draft Mode
 
-If you are familiar with the game and want some additional craziness, try draft mode. You and other players will be able to draft from the entire pool of available house cards. Keep in mind that you are still only permitted 7 to a hand, and that includes the standard 0-1-1-2-2-3-4 hand structure.
+If you are familiar with the game and want some additional craziness, try draft mode. You and other players will be able to draft from the entire pool of available house cards. Keep in mind that you are still only permitted 7 to a hand, and that includes the standard 0-1-1-2-2-3-4 hand structure. Also, if you have this option selected, the influence tracks will be drafted as well. When it's your turn, you can pick a house card or choose a position on an influence track.
 
 ## Thematic Draft Mode
 
-Same deal as draft mode, but the pool of selectable cards is limited to whatever variant you are playing (base game, ADwD, or MOD).
+An option to the normal draft mode. When this option is selected, each house can simultaneously build its deck from its base deck and its alternate deck. (Cannot be combined with Limited Draft Mode)
+
+## Limited Draft Mode
+
+An option to the normal draft mode. When this option is selected, the pool of draftable cards is limited to the variant you are playing. So it consists of either the base game decks, MoD Arryn and MoD Targaryen A or the ADwD, AFfC and MoD B decks. (Cannot be combined with Thematic Draft Mode)
+
+## Blind Draft Mode
+
+An option to the normal draft mode. When this option is selected, each house is assigned a random deck and a random position on the influence tracks. (Can be combined with Limited Draft Mode, but not with Thematic Draft Mode)
 
 ## Endless Mode
 
