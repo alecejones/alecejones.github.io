@@ -21,3 +21,12 @@ a player can be replaced with a controllable vassal house.
 All players of the game can click the leaver and launch a vote to replace them by a vassal:
 
 ![ReplaceByVassal](/assets/img/replace-by-vassal.png)
+
+---
+
+## Replacing House Targaryen
+
+Since House Targaryen cannot be a Vassal, Targaryen can only be replaced by another player.
+However, if House Targaryen has been destroyed, i.e. it no longer has any castles or units, House Targaryen no longer has to remain in the game. The only way that the game will then still activate House Targaryen is if House Targaryen still has power tokens left, to use them. House Targaryen can then gift its remaining power tokens as usual, or more recently, put them back into the pool:
+
+![ReplaceTargaryen](/assets/img/replace-targaryen.png)
