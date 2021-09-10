@@ -13,6 +13,6 @@ However, since desktop devices can have very different resolutions, the responsi
 
 The 8-player variant is now best played on devices with a QHD resolution of 2560x1440. However, to keep the whole thing still attractive for HD, the House Info column has been swapped with the GameState column so that the important game information can always be found next to the map and the House Info column is placed below the map if necessary. Furthermore, the House Info column can now be collapsed.
 
-But there are more ways to customize the game experience to your needs. The browser zoom. Scale down to 75% and you will have the same experience with HD as with QHD. All elements are displayed side by side. This also comes in handy if you play the game in a reduced window instead of full screen.
+But there are more ways to customize the game experience to your needs. The browser zoom. Scale down to 75% and you will have the same experience with HD as with QHD. All elements are displayed side by side. This is also handy if you play the game in a reduced window instead of full-screen mode, or at an even lower resolution than HD.
 
 If you notice an unpleasant display, please report it together with a screenshot via the known channels.
