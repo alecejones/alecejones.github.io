@@ -66,12 +66,17 @@ An option to the normal draft mode. When this option is selected, each house is 
 Instead of 10 rounds, go until players collectively decide to end the game at the end of a designated round. You can choose when that end is at any time.
 
 
+### Preceding mustering
+
+This option will trigger an additional mustering in round 1 before the game proceeds with the ususal planning phase.
+
+
 ## Mother of Dragons options
 Although the rules state MoD elements must be used entirely or not at all, they are available on S&R modular. See Deviations from the offical rules for details.
 
 ### Vassals
 
-For details see the Vassals settings page.
+This option activates the vassal mechanic, which means that games with up to 7 houses can be started once 3 players are seated. For an 8 player game with Targaryen you need at least 4 seated players. The unassigned houses will be so-called vassals. For more details, see the Vassals info page.
 
 ### Sea Order Tokens
 
