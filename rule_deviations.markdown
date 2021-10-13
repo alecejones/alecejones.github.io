@@ -31,3 +31,4 @@ In Swords and Ravens this is not possible for the sake of simplicity and you can
    
    However, we consider this more of a reward than a penalty (only 1s and 2s are doubled), so we decided to treat this case as if there were only one card left in the hand, and therefore no card is discarded.
 5. By definition, the raven phase is part of the planning phase. Since it was easier to implement, S&R took the liberty of integrating the raven phase into the action phase.
+6. According to the rules, Targaryen can never be a vassal. Nevertheless, it is possible to replace Targaryen with a vassal as soon as Targaryen has no more castles and units. This allows a defeated Targaryen to drop out of a game early.
