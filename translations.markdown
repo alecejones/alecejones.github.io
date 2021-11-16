@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Current Beta Progress
-permalink: /current-progress
+title: Translations
+permalink: /translations
 nav_order: 12
 ---
 
