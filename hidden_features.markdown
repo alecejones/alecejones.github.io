@@ -47,7 +47,3 @@ Likewise, hover over a territory to get more information about it.
 Houses will be reordered first based on the number of castles they control, and secondly by number of overall territories controlled. Players with 5 castles are shown in orange, and 6 are shown in red (and about to win, watch out!).
 
 ![Map](/assets/img/house_order.png)
-
-## Resolve march orders
-
-After you have choosen a target area for one of your units, this area cannot be used by other units anymore. You have to select all the units you want to move to this area at once.
