@@ -1,7 +1,7 @@
 ---
 layout: home
 title: FAQs
-permalink: /faq
+permalink: /faqs
 nav_order: 13
 ---
 
