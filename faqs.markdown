@@ -30,3 +30,12 @@ There are 2 rules that some users are not aware of and that can prevent the marc
 Should only a successful battle regulate your supply limit, this movement is forbidden, as a failure and the following retreat would be invalid.
 Although an attack on a neutral force cannot fail, this rule still applies because an attack on a neutral force counts as combat.)
 2. You can't take any of your vassals' territories.
+
+
+### Is it possible to show the initial combat strengths before a player starts a battle?
+
+In principle, it would not be a big effort to show the CombatInfoDialog, which is displayed during a battle and later in the log, also when planning a march order.
+However, we decided not to implement this feature for a specific reason. Combat is the most important action in an area control game,
+and we want to encourage players to take extra care and look at everything carefully at this point.
+The past has shown that a one-time miscalculation of a combat will achieve exactly that goal.
+In the long run, this will also train your strategic skills in your real life games.
