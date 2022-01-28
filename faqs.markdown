@@ -7,6 +7,13 @@ nav_order: 13
 
 ## FAQs
 
+### A players turn has been skipped after resolving Doran's ability. Why?
+This is intended as described here on page 3: https://images-cdn.fantasyflightgames.com/filer_public/cf/06/cf06eb26-48e3-46b9-b57c-f053beb2518d/agotbg_faq_v2_forweb.pdf
+
+_Q: Is it possible for a player’s turn be ‘skipped’ if the Doran Martell house card moves their token to the last position of the Iron Throne track?_
+
+A: Yes, it is possible for a House’s turn to be skipped after the resolution of Doran’s text ability. The turn order of the Iron Throne track is always followed exactly as it appears; the “1” position goes first, followed by the “2” position, followed by position “3”, etc. It is the position on the track that determines the current player, regardless of which Houses have taken their turn.
+
 ### Why the last house card is not automatically chosen in combat?
 
 Remember that the game automatically assigns your own support orders to your initial combat strength. During the "Choose House Cards" step, you will have the opportunity to reject the possible support you have received.
