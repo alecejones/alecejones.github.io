@@ -27,6 +27,7 @@ The last player on the Iron Throne track cannot pass and has to command all rema
 * Vassal orders are placed after player orders. Vassals can just place 2 orders.
 * You cannot attack nor raid your own vassal. You even cannot enter areas of your vassal with just a Power token in it.
 * Your vassal cannot attack nor raid you or any other vassal you control.
+* Vassals cannot march into a port.
 * Your vassal cannot support your enemy in battle.
 * All vassals share a vassal house card deck. When it comes to battle, the commander randomly draws 3 cards from the shared vassal deck to form a hand for the battle. He then picks one of those 3 cards as the chosen house card. After the battle, all the vassal house cards go back into the shared vassal deck, i.e. there is no discard pile for vassal house cards.
 * The commander earns one Power token when one of their vassals win a battle.
