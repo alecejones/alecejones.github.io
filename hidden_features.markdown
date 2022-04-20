@@ -10,13 +10,27 @@ Don't miss some of the other, more obscure features of the platform.
 
 ---
 
-## Westeros Phase tooltips
+## Westeros Phase tooltip
 
-You can hover over the Westeros Phase with your mouse to see the remaining Westeros cards. Now you can estimate the chances that that badly needed Mustering card will come up next round.
+You can click **Westeros phase** with your mouse to browse the remaining Westeros cards. Now you can estimate the chances that that badly needed Mustering card will come up next round.
 
 ![Map](/assets/img/westeros_tooltips.png)
 
-## Round tooltips
+
+## Wildling tooltip
+
+You can click on the Mammoth icon with your mouse to browse the Wildling deck. If you have seen the top card, you can see it again here until it is pushed to the bottom of the deck.
+
+![Map](/assets/img/wildling-tooltip.PNG)
+
+
+## Dragon Strength tooltip
+
+You can hover your mouse over the Dragon icon to see in which rounds the dragon's strength increases.
+
+![Map](/assets/img/dragon-tooltip.png)
+
+## Round tooltip
 
 Hover over the hourglass to see the number of rounds remaining in the game.
 
@@ -30,7 +44,7 @@ Dance with Dragons variant: 6 rounds only!
 
 ## Gifting Power Tokens
 
-You can hover over a player's power token image to pull up a menu for gifting tokens.
+You can click a player's Power token image to pull up a menu for gifting tokens.
 
 ![Map](/assets/img/gifting.png)
 
