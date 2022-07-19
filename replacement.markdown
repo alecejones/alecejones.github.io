@@ -21,3 +21,5 @@ a player can be replaced with a controllable vassal house.
 All players of the game can click the leaver and launch a vote to replace them by a vassal:
 
 ![ReplaceByVassal](/assets/img/replace-by-vassal.png)
+
+See [Replacing a Player by a vassal in-game](https://faq.swordsandravens.net/vassals#replacing-a-player-by-a-vassal-in-game) for more details.
