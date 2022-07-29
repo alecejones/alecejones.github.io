@@ -16,8 +16,7 @@ If you think that Swords and Ravens does not follow the rules, except for the fo
 ### Deviations
 1. The Mother of Dragons rules state that the expansion elements cannot be used in a modular way.
 We have decided to make the changes modular and optional and allow them in all other scenarios to be played as well to give players more freedom in game creation.
-2. Theoretically, another player may support an attack against a neutral force.
-However, since this is a very rare special case and would unnecessarily complicate and slow down the march process, we have not implemented this feature.
+2. Even though the official FAQ v2 does not directly address this issue, we have decided to grant the additional ship in the port of Lannisport only if House Greyjoy is in the game. From our point of view, this ship was added precisely to defuse the Greyjoy/Lannister conflict a bit, so that Greyjoy can no longer overrun Lannister that easily. If Greyjoy is not in the game, we believe that the original starting position from the 2nd edition should be used, since Lannister is the strongest house in the 3P game anyway and the additional ship would also allow capturing Seagard in round 1.
 3. Furthermore, it is theoretically possible to provide support from only one area, even if there are support orders in several adjacent areas.
 In Swords and Ravens this is not possible for the sake of simplicity and you can only grant or deny support completely.
 4. Massing on the Milkwater - Wildling Victory:
