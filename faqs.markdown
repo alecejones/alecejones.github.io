@@ -30,13 +30,14 @@ You must now select all the units for the desired target area at once, and then 
 
 ### Why I cannot perform my march?
 
-There are 2 rules that some users are not aware of and that can prevent the march from being performed as desired:
+There are 3 rules that some users are not aware of and that can prevent the march from being performed as desired:
 
 1. Before resolving combat, all other non-combat movement from the area assigned the March Order must be completed.
 (Remember that any movement at any time must be in compliance with your supply limit.
 Should only a successful battle regulate your supply limit, this movement is forbidden, as a failure and the following retreat would be invalid.
 Although an attack on a neutral force cannot fail, this rule still applies because an attack on a neutral force counts as combat.)
 2. You can't take any of your vassals' territories.
+3. Vassals cannot march into ports.
 
 
 ### Is it possible to show the initial combat strengths before a player starts a battle?
