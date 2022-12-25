@@ -58,6 +58,6 @@ Likewise, hover over a territory to get more information about it.
 
 ## Houses are Re-ordered by Score
 
-Houses will be reordered first based on the number of castles they control, and secondly by number of overall territories controlled. Players with 5 castles are shown in orange, and 6 are shown in red (and about to win, watch out!).
+Houses will be reordered first based on the number of castles they control, and secondly by number of overall territories controlled (visualized as tooltip when hovering over the castle icon). Players with 5 castles are shown in orange, and 6 are shown in red (and about to win, watch out!).
 
 ![Map](/assets/img/house_order.png)
