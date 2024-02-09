@@ -1,4 +1,4 @@
----
+⁸---
 layout: home
 title: Home
 permalink: /
@@ -27,6 +27,8 @@ Swords & Ravens has its own channels that you can submit questions to.
 The codebase for S&R is public and pull requests are welcome. The game server is written in Typescript with React, mobx and bootstrap.
 
 [Github Repository](https://github.com/Longwelwind/swords-and-ravens)
+
+[FAQ Repository](https://github.com/alecejones/alecejones.github.io)
 
 *Anything else I should know?*
 
