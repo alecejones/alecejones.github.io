@@ -1,4 +1,4 @@
-⁸---
+---
 layout: home
 title: Home
 permalink: /
