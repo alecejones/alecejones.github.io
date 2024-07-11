@@ -19,7 +19,7 @@ A: Yes, it is possible for a House’s turn to be skipped after the resolution o
 Remember that the game automatically assigns your own support orders to your initial combat strength. During the "Choose House Cards" step, you will have the opportunity to reject the possible support you have received.
 This is necessary for house cards like Roose Bolton or DwD Stannis, or whenever you think it makes sense to lose the current battle.
 So if you have received support, the last card can no longer be automatically chosen so players can decline their support at that time.
-The same is true for the owner of the Valyrian Steel Blade, who can also choose to burn the Valyrian Steel Blade at that time in any case.
+The same is true for the owner of the Valyrian Steel Blade, who can also choose to burn the Valyrian Steel Blade at that time in any case (because later the game might skip the question if you want to use the VSB).
 
 
 ### How can I split my army when resolving a march order?
